@@ -1,4 +1,4 @@
-# galton
+# Galton Board
 Simulation of a Galton board in Python 3
 
 The Galton board has 12 rows of pegs arranged in a hex pattern. That is, all the pegs are the same distance apart.
