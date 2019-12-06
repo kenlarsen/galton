@@ -343,7 +343,7 @@ def animate(frame):
     a = board.updateall(delta)
     return a
  
-ani = animation.FuncAnimation(fig, animate, init_func=init, frames=10000, interval=100, blit=True)
+ani = animation.FuncAnimation(fig, animate, init_func=init, frames=10000, interval=50, blit=True)
 
 # init()
 logging.debug('show')
